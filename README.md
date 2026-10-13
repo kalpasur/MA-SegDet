@@ -1,1 +1,1 @@
-# MA-SegDet
+# Aircraft-SegDet
